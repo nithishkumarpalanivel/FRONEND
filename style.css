@@ -1,0 +1,27 @@
+h1{
+    color: #5f18d8;
+    text-align: center;
+    font-family:Impact;
+}
+.ab{
+    color: #0f0e0f;
+    text-align: center;
+    font-family: "Lucida Handwriting" ;
+    margin: auto;
+}
+body{
+    background-color: rgb(215, 233, 235);
+    font-synthesis:bold;
+    
+    text-align: center;
+    background-image: url(https://cdn5.f-cdn.com/contestentries/1370548/29833877/5b4f15b1ea4aa_thumb900.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100% ;
+}
+form{
+    padding: 10px;
+}
+.bc{
+    a:hover{color:#f81e06;}
+}
