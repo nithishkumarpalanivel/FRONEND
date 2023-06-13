@@ -1,0 +1,55 @@
+body{
+	background:url("https://www.savaari.com/blog/wp-content/uploads/2021/07/gangaikonda-cholapuram-brihadisvara-temple-featured.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+	
+	
+	}
+	nav{
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	  
+	}
+	.list{
+		font-size: 2em;
+		padding :10px 40px;
+		text-decoration: none;
+		word-spacing: 1em;
+		color: black;
+	}
+	h1 {
+		font-size: 2em;
+	
+	}
+	.list a{text-decoration: none;
+	
+	text-overflow: red;
+	}
+	.list2 button{
+		text-decoration: none;
+		margin-right: 15px;
+		font-size: 2em;
+		border-radius: 10px;
+		background-color:green;
+		color:white;
+	}
+	.list3{
+		font-size: 1em;
+		padding-right: 50%;
+	}
+	.container h1{
+		font-size: 2em ;
+		letter-spacing: 0.2em;
+		
+	}
+	.list4 button{
+		text-decoration: none;
+		align-items: center;
+		margin-left: 200px;
+		font-size: 1.5em;
+		border-radius: 10px;
+		background-color:blue;
+		color:white;
+	}
